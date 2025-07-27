@@ -10,3 +10,7 @@ venv/
 # OS・IDE
 *.DS_Store
 *.idea/
+
+# Measurement CSV（履歴に残さない）
+data/*.csv          # ←  data フォルダ内の CSV
+*.csv               
